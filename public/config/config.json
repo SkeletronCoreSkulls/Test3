@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xf78005A66A8d05A66FcbF72aDE3b5eA33D01Ffa1",
+  "SCAN_LINK": "https://bonerscan.com/address/0xf78005A66A8d05A66FcbF72aDE3b5eA33D01Ffa1",
+  "NETWORK": {
+    "NAME": "Bonerium",
+    "SYMBOL": "BONE",
+    "ID": 9117
+  },
+  "NFT_NAME": "Bone V2 Punks",
+  "SYMBOL": "BP",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 500000000000000000,
+  "DISPLAY_COST": 0.5,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Soon",
+  "MARKETPLACE_LINK": "",
+  "SHOW_BACKGROUND": true
+}
